@@ -30,10 +30,10 @@ MegaBlog is a full-featured blogging website built with modern technologies, pro
 
     npm install
 
-**3.Configure Appwrite:**<br>
-Create an Appwrite account at https://www.appwrite.io/.<br>
+**3.Configure Appwrite:**<br><br>
+Create an Appwrite account at https://www.appwrite.io/.<br><br>
 Follow Appwrite's documentation to set up your project and obtain the necessary environment variables (endpoint, project ID, etc.).<br>
-Create a .env.local file at the root of the project and set these variables:<br>
+Create a .env.local file at the root of the project and set these variables:<br><br>
     REACT_APP_APPWRITE_ENDPOINT=YOUR_APPWRITE_ENDPOINT
     REACT_APP_APPWRITE_PROJECT=YOUR_APPWRITE_PROJECT_ID
 <br><br>
